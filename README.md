@@ -5,4 +5,4 @@ Simmon Game
 Javascript
 
 # Git-Hub
-It is transfered from desktop to github
+It is transfered from desktop to github.
